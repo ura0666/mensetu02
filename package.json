@@ -1,5 +1,5 @@
 {
-  "name": "render-line-bot-trial",
+  "name": "mensetu02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mitsuoka0423/render-line-bot-trial.git"
+    "url": "git+ssh://git@github.com//ura0666/mensetu02.git"
   },
   "keywords": [],
   "author": "Takahiro Mitsuoka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mitsuoka0423/render-line-bot-trial/issues"
+    "url": "https://github.com//ura0666/mensetu02/issues"
   },
-  "homepage": "https://github.com/mitsuoka0423/render-line-bot-trial#readme",
+  "homepage": "https://github.com//ura0666/mensetu02#readme",
   "dependencies": {
     "@line/bot-sdk": "^7.5.2",
     "express": "^4.18.1"
